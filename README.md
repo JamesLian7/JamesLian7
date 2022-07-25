@@ -1,4 +1,5 @@
- 👋 Hi, I’m James Lian /n
+ #👋 Hi, I’m James Lian 
+ 
  🌱 I’m currently learning COMPSCI
 
 
