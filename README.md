@@ -1,8 +1,3 @@
- 👋 Hi, I’m James Lian 
- 
- 🌱 I’m currently learning COMPSCI
-
-
 
 <!---
 JamesLian7/JamesLian7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
